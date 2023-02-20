@@ -3,5 +3,5 @@
 ### **aktif olarak kullandığım için not almadım**
 
 
-![flutter uygulama ekranı]( https://drive.google.com/file/d/1WtS8BGSJZGamorkrhWDzOwQmAPwxnu2y/view?usp=sharing "Text to show on mouseover").
+![flutter uygulama ekranı](https://imgyukle.com/i/QuSexv "Text to show on mouseover").
 
